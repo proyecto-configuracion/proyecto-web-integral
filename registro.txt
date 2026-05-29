@@ -2,5 +2,6 @@ Formulario de registro de usuario - Sprint 1
 
 actualizacion de formulario
 
+nuevo formulario de registro
 
 aaaa
